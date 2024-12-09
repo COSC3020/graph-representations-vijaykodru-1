@@ -17,7 +17,7 @@ most important part. Add your answer to this markdown file.
 
 The run time complexity for the given code is $O(n^2)$. This is because the outer loop that goes each row takes $O(n)$ and then the inner loop goes through each column of that row which also take $O(n)$. In total we get $O(n^2)$. The runtime actually depends on the number of vertices because we first start by going through each row representing the vertex. And then we check if there is a edge for that vertex or not. Because we start by checking the vertex, it depends on it rather than the edges for that vertex.
 
-
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice
 
 
 
